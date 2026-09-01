@@ -1,4 +1,5 @@
-#Strogonoff de Frango🐔
+Strogonoff de Frango🐔
+
 ingredientes
 - 3 peitos de frango Coopavel cortados em cubos.
 - 1 dente de alho picado.
